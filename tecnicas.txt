@@ -1,0 +1,6 @@
+5
+Hadoken 10 3 down right punch
+Hurricane-kick 15 3 down left kick
+Shoryuken 20 4 right down right punch
+Hurricane-kick-new 10 4 down left kick kick
+Low-Tiger-shot 20 3 down right kick
